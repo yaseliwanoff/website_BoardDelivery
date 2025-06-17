@@ -1,0 +1,37 @@
+:root {
+    --background: #E5E7EB;
+    --background-color-white: #FFFFFF;
+    --background-color-white-dark: #F9FAFB;
+    --background-color-gray: #E5E7EB;
+    --background-color-purple: #8B5CF6;
+    --background-color-black: #111827;
+
+    --text-color-white: #FFFFFF;
+    --text-color-black: #111827;
+    --text-color-purple: #8B5CF6;
+    --text-color-gray-light: #F9FAFB;
+    --text-color-gray-dark: #4B5563;
+
+    --button-padding-default: 16px 28px;
+
+    --border-radius-low: 12px;
+    --border-radius-default: 16px;
+
+    --desktop-text-size-h1: 36px;
+    --desktop-text-size-h2: 30px;
+    --desktop-text-size-h3: 24px;
+    --desktop-text-size-description-large: 20px;
+    --desktop-text-size-description-default: 16px;
+    --desktop-text-size-description-low: 14px;
+    --desktop-text-size-button: 16px;
+    --desktop-text-size-header: 16px;
+
+    --device-text-size-h1: 30px;
+    --device-text-size-h2: 30px;
+    --device-text-size-h3: 20px;
+    --device-text-size-description: 14px;
+    --device-text-size-button: 16px;
+    --device-text-size-header: 16px;
+
+    --transition: .2s linear;
+}
